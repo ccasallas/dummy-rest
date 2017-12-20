@@ -1,0 +1,212 @@
+{
+  "categories": [
+    {
+	  "id": 1,
+	  "name": "Libros"
+  	},
+  	{
+  	  "id": 2,
+  	  "name": "Peliculas"
+  	}
+  ],
+  "products": [
+  	{
+  	  "id": "1",
+  	  "name": "La Biblia",
+  	  "category": {
+    	  "id": 1,
+    	  "name": "Libros"
+    	},
+  	  "available": true,
+  	  "best_seller": true,
+  	  "price": 30000
+  	},
+  	{
+  	  "id": "2",
+  	  "name": "El Alquimista",
+  	  "category": {
+    	  "id": 1,
+    	  "name": "Libros"
+    	},
+  	  "available": true,
+  	  "best_seller": false,
+  	  "price": 35000
+  	},
+  	{
+  	  "id": "3",
+  	  "name": "El Código da Vinci",
+  	  "category": {
+    	  "id": 1,
+    	  "name": "Libros"
+    	},
+  	  "available": false,
+  	  "best_seller": true,
+  	  "price": 37000
+  	},
+  	{
+  	  "id": "4",
+  	  "name": "El diario de Ana Frank",
+  	  "category": {
+    	  "id": 1,
+    	  "name": "Libros"
+    	},
+  	  "available": true,
+  	  "best_seller": false,
+  	  "price": 20000
+  	},
+  	{
+  	  "id": "5",
+  	  "name": "El gran Gatsby",
+  	  "category": {
+    	  "id": 1,
+    	  "name": "Libros"
+    	},
+  	  "available": false,
+  	  "best_seller": false,
+  	  "price": 25000
+  	},
+  	{
+  	  "id": "6",
+  	  "name": "Don Quijote de la mancha",
+  	  "category": {
+    	  "id": 1,
+    	  "name": "Libros"
+    	},
+  	  "available": true,
+  	  "best_seller": true,
+  	  "price": 35000
+  	},
+  	{
+  	  "id": "7",
+  	  "name": "La metamorfosis",
+  	  "category": {
+    	  "id": 1,
+    	  "name": "Libros"
+    	},
+  	  "available": false,
+  	  "best_seller": false,
+  	  "price": 9000
+  	},
+  	{
+  	  "id": "8",
+  	  "name": "La Eneida",
+  	  "category": {
+    	  "id": 1,
+    	  "name": "Libros"
+    	},
+  	  "available": true,
+  	  "best_seller": true,
+  	  "price": 31000
+  	},
+  	{
+  	  "id": "9",
+  	  "name": "Moby Dick",
+  	  "category": {
+    	  "id": 1,
+    	  "name": "Libros"
+    	},
+  	  "available": true,
+  	  "best_seller": true,
+  	  "price": 8000
+  	},
+  	{
+  	  "id": "10",
+  	  "name": "El Principito",
+  	  "category": {
+    	  "id": 1,
+    	  "name": "Libros"
+    	},
+  	  "available": true,
+  	  "best_seller": true,
+  	  "price": 8500
+  	},
+  	{
+  	  "id": "11",
+  	  "name": "Forrest Gump",
+  	  "category": {
+    	  "id": 2,
+    	  "name": "Peliculas"
+    	},
+  	  "available": true,
+  	  "best_seller": true,
+  	  "price": 50000
+  	},
+  	{
+  	  "id": "12",
+  	  "name": "El Rey Leon",
+  	  "category": {
+    	  "id": 2,
+    	  "name": "Peliculas"
+    	},
+  	  "available": true,
+  	  "best_seller": true,
+  	  "price": 100000
+  	},
+  	{
+  	  "id": "13",
+  	  "name": "Regreso al Futuro",
+  	  "category": {
+    	  "id": 2,
+    	  "name": "Peliculas"
+    	},
+  	  "available": true,
+  	  "best_seller": false,
+  	  "price": 55000
+  	},
+  	{
+  	  "id": "14",
+  	  "name": "Kill Bill",
+  	  "category": {
+    	  "id": 2,
+    	  "name": "Peliculas"
+    	},
+  	  "available": true,
+  	  "best_seller": false,
+  	  "price": 52000
+  	},
+  	{
+  	  "id": "15",
+  	  "name": "Welcome to Zombieland!",
+  	  "category": {
+    	  "id": 2,
+    	  "name": "Peliculas"
+    	},
+  	  "available": true,
+  	  "best_seller": true,
+  	  "price": 120000
+  	},
+  	{
+  	  "id": "16",
+  	  "name": "Braveheart",
+  	  "category": {
+    	  "id": 2,
+    	  "name": "Peliculas"
+    	},
+  	  "available": true,
+  	  "best_seller": false,
+  	  "price": 40000
+  	},
+  	{
+  	  "id": "17",
+  	  "name": "Inception",
+  	  "category": {
+    	  "id": 2,
+    	  "name": "Peliculas"
+    	},
+  	  "available": true,
+  	  "best_seller": true,
+  	  "price": 57000
+  	},
+  	{
+  	  "id": "18",
+  	  "name": "It",
+  	  "category": {
+    	  "id": 2,
+    	  "name": "Peliculas"
+    	},
+  	  "available": true,
+  	  "best_seller": true,
+  	  "price": 3000
+  	}
+  ]
+}
